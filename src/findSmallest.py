@@ -16,3 +16,5 @@ def selectionSort(arr):
     return newArr
 
 print(selectionSort([5,3,6,2,10]))
+
+# 选择排序算法，从一个list中找出最大或者最小的添加到另外一个列表中。时间复杂度为O(n²)
